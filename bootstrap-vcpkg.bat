@@ -1,2 +1,4 @@
-@echo off
-powershell.exe -NoProfile -ExecutionPolicy Bypass "& {& '%~dp0scripts\bootstrap.ps1' %*}"
+C:\dev\vcpkg> vcpkg search zlib
+
+C:\dev\vcpkg> vcpkg search liquidcrystal
+
