@@ -1,4 +1,4 @@
-C:\dev\vcpkg> vcpkg search zlib
+C:\dev\vcpkg> vcpkg search ta
 
-C:\dev\vcpkg> vcpkg search liquidcrystal
 
+C:\dev\vcpkg> cd..
